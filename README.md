@@ -37,6 +37,14 @@
 
 写了好多,觉着自己都被说晕了,文笔不好,思路也不清晰.
 
+
+最终实现的效果:
+
+![静态图片](https://box.worktile.com/view/c84ac928fb3d4a34a2c62989e8860b66?pid=39f1a5e31a40410cbd72fafeae831bf6&token=be630b8bbcd24ad19f67eee5d74c915b&dt=)
+
+
+
+
 借鉴一下简述的界面:
 ![简书的无网界面](https://box.worktile.com/view/3089f1cd9d5744ed888cdf0e746fd8bd?pid=39f1a5e31a40410cbd72fafeae831bf6&token=be630b8bbcd24ad19f67eee5d74c915b&dt=)
 
@@ -79,4 +87,3 @@
 实现的效果:
 ![实现的效果](https://box.worktile.com/view/8e4fa01299c0479fa13ba836ae71397a?pid=39f1a5e31a40410cbd72fafeae831bf6&token=be630b8bbcd24ad19f67eee5d74c915b&dt=)
 
-![静态图片](https://box.worktile.com/view/c84ac928fb3d4a34a2c62989e8860b66?pid=39f1a5e31a40410cbd72fafeae831bf6&token=be630b8bbcd24ad19f67eee5d74c915b&dt=)
