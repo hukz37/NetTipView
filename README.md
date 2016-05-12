@@ -21,6 +21,8 @@
 * 应用使用过程中断网
 
 
+![断网无网提示分析.png](http://upload-images.jianshu.io/upload_images/693090-af21c47838f5dbee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 1.原生界面
  
  首先,应用启动时就是无网状态,我们可以在视图即将显示或者视图加载完毕时判断当前网络状态(项目多数都使用了AFN,可以通过AFN直接判断网络状态),如果是无网状态,就显示自定义无网界面;如果是有网状态,就隐藏自定义界面(这一步有无均可)
